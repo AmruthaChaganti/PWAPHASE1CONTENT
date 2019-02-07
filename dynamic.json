@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"img":"download.png",
+		"name":"Amrutha",
+		"roll":"16A31A0563",
+		"institute":"pragati",
+		"place":"kakinada"
+	},
+	"career":{
+		"info":"To secure a challenging position where i can explore my talents"
+	},
+	"education":[
+		{
+			"sno":"1.",
+			"degree":"b.tech",
+			"institute":"pragati",
+			"yop":"2020"
+		},
+		{
+			"sno":"2.",
+			"degree":"inter",
+			"institute":"geetam",
+			"yop":"2016"
+		},
+		{
+			"sno":"3.",
+			"degree":"ssc",
+			"institute":"sri chaitanya",
+			"yop":"2014"
+		}
+
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+}
